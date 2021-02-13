@@ -18,4 +18,4 @@ Insertion Sort is a simple sorting algorithm that iterates, consuming one input 
 
 ## Implementation
 
-Every sorting algorithm is implemented as a single script that takes list of parameters (numbers) and returns a sorted input list. You can find comments and fine named variables inside of every script :)
+Every sorting algorithm is implemented as a single script that takes list of parameters (numbers) and returns a sorted input list. You can find comments and fine named variables inside every script :)
